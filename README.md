@@ -17,7 +17,7 @@
 Склонируйте репозиторий на ваш локальный компьютер:
 
 ```bash
-git clone https://github.com/thekingoffamily/tree-menu-django
+git clone https://github.com/VitaliySuslin/tree-menu-django.git
 cd tree-menu-django
 ```
 
